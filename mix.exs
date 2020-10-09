@@ -27,7 +27,7 @@ defmodule Cana.MixProject do
   end
 
   defp description() do
-    "Simple email validator based on RFC3696"
+    "Simple email address validator"
   end
 
   defp package() do
